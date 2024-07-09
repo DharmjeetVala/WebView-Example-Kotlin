@@ -19,7 +19,7 @@ This is a simple Android application that demonstrates the use of `WebView` to l
     - Clone the repository:
 
 ```
-git clone https://github.com/DharmjeetVala/SeekBar-RatingBar-AlertDialog-Demo.git
+git clone https://github.com/DharmjeetVala/WebView-Example-Kotlin.git
 ```
 - Step:2
     - Open the project in Android Studio.
